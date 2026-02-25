@@ -1,0 +1,8 @@
+download data sample di mysql tutorial nama nya mysql sample database
+
+import data yang di di download ke mysql (OLTP)
+
+mengembangkan dan menjalankan pipeline elt untuk mengextract dari mysql dan load ke postgres
+
+kemudian membuat postgres data warehouse dengan fact n dim table 
+
